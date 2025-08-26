@@ -8,20 +8,23 @@ table {
     height: 480px;
     width: 480px;
     border-collapse: collapse;
-    align-items: center;
+
 }
 th, td {
     border: 2px solid #101010;
     padding: 5px;
     text-align: center;
     height: 60px;
+    width: 60px;
     vertical-align: middle;
 }
 th {
-    background-color: #f2f2f2;
+    background-color: #995858;
+    height: 60px;
+    width: 60px;
 }
 h2 {
     text-align: center; 
-    color: rgb(0, 0, 139);
+    color: rgb(166, 237, 235);
     margin: 20px;
 }
